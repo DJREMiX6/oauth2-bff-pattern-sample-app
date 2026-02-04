@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="OBPSAB.API/OBPSAB.API.csproj" />
+  <Project Path="OBPSAB.AppHost/OBPSAB.AppHost.csproj" />
+  <Project Path="OBPSAB.Application/OBPSAB.Application.csproj" Id="6fa7da0b-ea93-4b78-9e03-34878bb45387" />
+  <Project Path="OBPSAB.BFF/OBPSAB.BFF.csproj" />
+  <Project Path="OBPSAB.Domain/OBPSAB.Domain.csproj" Id="255b67fe-14f4-419d-a6ce-9a822b172706" />
+  <Project Path="OBPSAB.ServiceDefaults/OBPSAB.ServiceDefaults.csproj" />
+</Solution>

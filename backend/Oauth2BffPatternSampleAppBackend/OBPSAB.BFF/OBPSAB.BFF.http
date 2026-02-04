@@ -1,0 +1,6 @@
+@OBPSAB.BFF_HostAddress = http://localhost:5063
+
+GET {{OBPSAB.BFF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

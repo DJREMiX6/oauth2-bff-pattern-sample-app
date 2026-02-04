@@ -1,0 +1,6 @@
+@Oauth2BffPatternSampleAppBackend_HostAddress = http://localhost:5237
+
+GET {{Oauth2BffPatternSampleAppBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
